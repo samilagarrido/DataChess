@@ -28,7 +28,7 @@
 <br>
 
 ## Referências
-    
+
 <p align="justify"> Nesse repositório, vamos utilizar o dataset do Lichess – uma plataforma online de xadrez onde pessoas do mundo inteiro se reúnem para disputar partidas em várias modalidades.
 <br>
 
