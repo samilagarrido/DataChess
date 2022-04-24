@@ -2,7 +2,10 @@
     <br>
     <p align="center">Projeto Final ICD<p>
 </h1>
+
 <p align="center">
+<p align="center"><img src="./assets/chess.png" width="90%" height="90%"/></p>
+<br>
 
 ## Integrantes:
 
