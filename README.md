@@ -16,6 +16,12 @@
 
 ## Perguntas
 
+    - Qual a cor de peça que mais vence partidas?
+    - Quem ganha mais para cada tipo mais frequente de abertura?
+    - Qual a distribuição de frequência do número de jogadas por partida?
+    - Qual a influência do rating dos jogadores no resultado final das partidas?
+    
+<br>
 
 ## Referências
 [Chess Game Dataset (Lichess)](https://www.kaggle.com/datasets/datasnaek/chess)
