@@ -18,4 +18,4 @@
 
 
 ## Referências
-    [Chess Game Dataset (Lichess)]("https://www.kaggle.com/datasets/datasnaek/chess")
+[Chess Game Dataset (Lichess)]("https://www.kaggle.com/datasets/datasnaek/chess")
