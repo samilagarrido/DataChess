@@ -1,6 +1,9 @@
 <h1 align="center">
     <br>
     <p align="center">Projeto Final ICD<p>
+    <br>
+    <p align="center">Disciplina: Introdução à Ciência de Dados<p>
+    <p align="center">Professor: Yuri Malheiros<p>
 </h1>
 
 <p align="center">
