@@ -7,6 +7,10 @@
 <p align="center"><img src="./assets/chess.png" width="90%" height="90%"/></p>
 <br>
 
+<p align="justify"> Descendente dos Persas e Indianos, o xadrez surgiu em sua forma atual durante o renascimento, tornando-se mundialmente conhecido como um jogo de tabuleiro onde dois oponentes se enfrentam em uma batalha estratégica, para capturar o rei adversário.
+
+
+
 ## Integrantes:
 
     - João Antonio Honorato Carvalho | Matrícula: 20210026680
@@ -24,4 +28,7 @@
 <br>
 
 ## Referências
+
+<p align="justify"> Nesse repositório, vamos utilizar o dataset do Lichess – uma plataforma online de xadrez onde pessoas do mundo inteiro se reúnem para disputar partidas em várias modalidades.
+<br>
 [Chess Game Dataset (Lichess)](https://www.kaggle.com/datasets/datasnaek/chess)
