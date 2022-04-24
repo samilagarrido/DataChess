@@ -2,9 +2,12 @@
     <br>
     <p align="center">Projeto Final ICD<p>
     <br>
+</h1>
+
+<h2 align="center">
     <p align="center">Disciplina: Introdução à Ciência de Dados<p>
     <p align="center">Professor: Yuri Malheiros<p>
-</h1>
+</h2>
 
 <p align="center">
 <p align="center"><img src="./assets/chess-surrealista.jpg" width="90%" height="90%"/></p>
