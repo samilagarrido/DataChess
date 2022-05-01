@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <p align="center">Projeto Final ICD<p>
+    <p align="center"> ♚ Projeto Final ICD<p>
 </h1>
 
 <h2 align="center">
