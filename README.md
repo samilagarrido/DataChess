@@ -34,8 +34,8 @@
 
 ## ♟ Referências
 
-<p align="justify"> Nesse repositório, vamos utilizar o dataset do Lichess – uma plataforma online de xadrez onde pessoas do mundo inteiro se reúnem para disputar partidas em várias modalidades.
+<p align="justify"> Nesse repositório, foi utilizado os seguintes datasets: Estatísticas Internacionais de Xadrez até 2022 e o Lichess - uma plataforma online de xadrez onde pessoas do mundo inteiro se reúnem para disputar partidas em várias modalidades.
 <br>
 
 [Chess Game Dataset (Lichess)](https://www.kaggle.com/datasets/datasnaek/chess)
-
+[International Chess Statistics 2022](https://www.kaggle.com/datasets/deepcontractor/international-chess-statistics-2022)
